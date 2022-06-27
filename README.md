@@ -10,4 +10,5 @@
 9110242482/9110242482 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9110242482&layout=compact)](https://github.com/9110242482/github-readme-stats)
+[![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=9110242482)](https://github.com/9110242482/github-readme-stats)
